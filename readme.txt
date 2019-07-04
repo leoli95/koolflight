@@ -1,41 +1,4 @@
-ÊµÑéÆ÷²Ä:
-	Ì½Ë÷ÕßSTM32F4¿ª·¢°å
-	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°NRF24L01 2.4GÎÞÏßÄ£¿éµÄÊ¹ÓÃ.
-	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPF9)
-	2,´®¿Ú1(²¨ÌØÂÊ:115200,PA9/PA10Á¬½ÓÔÚ°åÔØUSB×ª´®¿ÚÐ¾Æ¬CH340ÉÏÃæ)
-	3,ALIENTEK 2.8/3.5/4.3/7´çTFTLCDÄ£¿é(Í¨¹ýFSMCÇý¶¯,FSMC_NE4½ÓLCDÆ¬Ñ¡/A6½ÓRS)
-	4,KEY0°´¼ü(Á¬½ÓÔÚPE4)/KEY1°´¼ü(Á¬½ÓÔÚPE3)
-	5,NRF24L01Ä£¿é(SPI1(PB3/PB4/PB5)/IRQ(PG8)/CS(PG7)/CE(PG6)). 
-
-ÊµÑéÏÖÏó:
-	±¾ÊµÑé¿ª»úºó,ÏÈ¼ì²âNRF24L01Ä£¿éÊÇ·ñ´æÔÚ£¬ÔÚ¼ì²âµ½NRF24L01Ä£¿éÖ®ºó£¬¸ù¾ÝKEY0ºÍKEY1µÄÉèÖÃÀ´¾ö¶¨
-	Ä£¿éµÄ¹¤×÷Ä£Ê½£¬ÔÚÉè¶¨ºÃ¹¤×÷Ä£Ê½Ö®ºó£¬¾Í»á²»Í£µÄ·¢ËÍ/½ÓÊÕÊý¾Ý£¬Í¬ÑùÓÃDS0À´Ö¸Ê¾³ÌÐòÕýÔÚÔËÐÐ¡£ 
-	
-×¢ÒâÊÂÏî: 
-	1,4.3´çºÍ7´çÆÁÐèÒª±È½Ï´óµçÁ÷,USB¹©µç¿ÉÄÜ²»×ã,ÇëÓÃÍâ²¿µçÔ´ÊÊÅäÆ÷(ÍÆ¼öÍâ½Ó12V 1AµçÔ´).
-	2,±¾Àý³ÌÔÚLCD_Initº¯ÊýÀïÃæ(ÔÚILI93xx.c),ÓÃµ½ÁËprintf,Èç¹û²»³õÊ¼»¯´®¿Ú1,½«µ¼ÖÂÒº¾§ÎÞ·¨ÏÔÊ¾!!  
-	3,Ðè×Ô±¸NRF24L01Ä£¿é2¸ö£¬Ì½Ë÷ÕßSTM32¿ª·¢°å2¿é
-	4,NRF24L01Ä£¿é²åÔÚ¿ª·¢°åU6Î»ÖÃ(³¯Íâ²å). 
-	5,±¾ÊµÑéÐèÒª2Ì×ALIENTEK¿ª·¢°å²Å¿ÉÒÔÕý³£²âÊÔ!!!!!!Ò»¿é×ö·¢ËÍ,Ò»¿é×ö½ÓÊÕ.
-	
-
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-10-25
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
-					
-					
-					
-					
+é£žæŽ§åº•å±‚æ— çº¿é€šè®¯åŠä¸²å£æ‰“å°è°ƒè¯•æˆåŠŸ
 					
 					
 					
